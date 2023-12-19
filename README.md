@@ -6,7 +6,7 @@ To develop a Machine Learning Model for predicting the payment date of an invoic
 **Workflow:**
 
 1. **Acquiring Data:**
-   - The datasets were provided by our internship host, [HighRadius](https://www.highradius.com/).
+   - The datasets were provided by our internship host,XYZ Company
 
 2. **Data Cleaning:**
    - Perform data cleaning to handle missing values, outliers, and ensure data integrity.
